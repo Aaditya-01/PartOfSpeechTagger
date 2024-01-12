@@ -1,1 +1,1 @@
-# PartOfSpeechTagger
+# PoS-Tagger
